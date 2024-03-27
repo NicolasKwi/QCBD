@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.0ea42269.css",
-    "main.js": "./static/js/main.d0571782.js",
+    "main.css": "./static/css/main.99c13c78.css",
+    "main.js": "./static/js/main.9bf45504.js",
     "static/js/787.ea848ac3.chunk.js": "./static/js/787.ea848ac3.chunk.js",
     "static/media/2022-05-12.jpg": "./static/media/2022-05-12.58d36f4aca204f8d656c.jpg",
     "static/media/20240228_154215.jpg": "./static/media/20240228_154215.530d00c60fac03ba28cc.jpg",
@@ -34,12 +34,12 @@
     "static/media/6.jpg": "./static/media/6.fadb72d230dc45c3e9b6.jpg",
     "static/media/Couronne CBD.png": "./static/media/Couronne CBD.6ddb5267a17f18cefd13.png",
     "index.html": "./index.html",
-    "main.0ea42269.css.map": "./static/css/main.0ea42269.css.map",
-    "main.d0571782.js.map": "./static/js/main.d0571782.js.map",
+    "main.99c13c78.css.map": "./static/css/main.99c13c78.css.map",
+    "main.9bf45504.js.map": "./static/js/main.9bf45504.js.map",
     "787.ea848ac3.chunk.js.map": "./static/js/787.ea848ac3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ea42269.css",
-    "static/js/main.d0571782.js"
+    "static/css/main.99c13c78.css",
+    "static/js/main.9bf45504.js"
   ]
 }
