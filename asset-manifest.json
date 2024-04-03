@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.c5709544.css",
-    "main.js": "./static/js/main.d18b5854.js",
+    "main.css": "./static/css/main.e95f327f.css",
+    "main.js": "./static/js/main.a2530e71.js",
     "static/js/787.ea848ac3.chunk.js": "./static/js/787.ea848ac3.chunk.js",
     "static/media/2022-05-12.jpg": "./static/media/2022-05-12.58d36f4aca204f8d656c.jpg",
     "static/media/20240228_154215.jpg": "./static/media/20240228_154215.530d00c60fac03ba28cc.jpg",
@@ -21,6 +21,7 @@
     "static/media/Screenshot_20240228_180343_Google.jpg": "./static/media/Screenshot_20240228_180343_Google.a50813c9725c20f4178c.jpg",
     "static/media/20220616_203222.jpg": "./static/media/20220616_203222.b3282fab4ebb7641ec6f.jpg",
     "static/media/Screenshot_20240228_173747_Gallery.jpg": "./static/media/Screenshot_20240228_173747_Gallery.8af31c84682d9ae706c4.jpg",
+    "static/media/2021-11-10.jpg": "./static/media/2021-11-10.d4095675be1507d5b8f9.jpg",
     "static/media/4817503.jpg": "./static/media/4817503.c8cc0caf2af8e69f9b59.jpg",
     "static/media/blue-cloud.jpg": "./static/media/blue-cloud.5d8719c4a715b6dc965f.jpg",
     "static/media/1.jpg": "./static/media/1.9de18864eb49c8d239c9.jpg",
@@ -34,12 +35,12 @@
     "static/media/6.jpg": "./static/media/6.fadb72d230dc45c3e9b6.jpg",
     "static/media/Couronne CBD.png": "./static/media/Couronne CBD.6ddb5267a17f18cefd13.png",
     "index.html": "./index.html",
-    "main.c5709544.css.map": "./static/css/main.c5709544.css.map",
-    "main.d18b5854.js.map": "./static/js/main.d18b5854.js.map",
+    "main.e95f327f.css.map": "./static/css/main.e95f327f.css.map",
+    "main.a2530e71.js.map": "./static/js/main.a2530e71.js.map",
     "787.ea848ac3.chunk.js.map": "./static/js/787.ea848ac3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5709544.css",
-    "static/js/main.d18b5854.js"
+    "static/css/main.e95f327f.css",
+    "static/js/main.a2530e71.js"
   ]
 }
